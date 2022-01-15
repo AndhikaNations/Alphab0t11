@@ -22,14 +22,14 @@ return `ℒ⃝👾 *B O T  S T A T I S T I C*
 
 ℒ⃝👨‍💻 *C O N N E C T  W I T H  M E*
 
-⛎ Api : api-alphabot.herokuapp.com
-♈ YouTube : youtube.com/c/zeeoneofc
-♉ Github : zeeoneofc.github.io
-♊ Instagram : instagram.com/zeeoneofc
-♋ Tiktok : tiktok.com/@zeeoneofc
-♌ Telegram : t.me/zeeoneofc
-♎ Ch Telegram : t.me/zeeone_ofc
-♏ WhatsApp : bit.ly/zeeone_ofc
+⛎ Api : api-abx.herokuapp.com
+♈ YouTube : gk ada
+♉ Github : https://github.com/AndhikaNations
+♊ Instagram : instagram.com/munje_eobseoyo_
+♋ Tiktok : Gk buat akunnya! :v
+♌ Telegram : Gak Ada
+♎ Ch Telegram : Gak Ada
+♏ WhatsApp : https://wa.me/6282135373432
 `}
 
 exports.infobot = infobot
